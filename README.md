@@ -6,7 +6,7 @@ Welcome to my GitHub Portfolio 👨‍💻
 - 🎨 Designer — check out my Canva mockups below!
 
 ## 🎨 My Designs
-![Design 1](design1.png)
-![Design 2](design2.png)
-![Design 3](design3.png)
+![Design 1](1.png)
+![Design 2](2.png)
+![Design 3](3.png)
 (https://www.canva.com/design/DAG3FO0Scvs/BdEioKjrUVp_Rp0CVBpGIA/edit?ui=e30)
